@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "subway",
+		"player1": "bf",
+		"player2": "mami-new",
+		"player3": null,
+		"events": [
+			[
+				653.571428571429,
+				[
+					[
+						"Camera Zoom Adv.",
+						"-0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				685.714285714286,
+				[
+					[
+						"Connect Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71618.5714285714,
+				[
+					[
+						"Camera Zoom Adv.",
+						"0.3",
+						"0.03"
+					]
+				]
+			],
+			[
+				71657.1428571429,
+				[
+					[
+						"Connect Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Camera Zoom Adv.",
+						"-0.2",
+						"0.02"
+					]
+				]
+			],
+			[
+				77142.8571428571,
+				[
+					[
+						"Connect Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82628.5714285714,
+				[
+					[
+						"Connect Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Connect"
+	}
+}
